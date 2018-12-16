@@ -1,0 +1,3 @@
+F1fc11VpQBMPUjiyfCJIfle90gZdsS2z
+https://api.giphy.com/v1/gifs/trending?api_key=F1fc11VpQBMPUjiyfCJIfle90gZdsS2z&limit=25&rating=G
+https://api.giphy.com/v1/gifs/search?api_key=F1fc11VpQBMPUjiyfCJIfle90gZdsS2z&q=1&limit=25&offset=0&rating=G&lang=pt
