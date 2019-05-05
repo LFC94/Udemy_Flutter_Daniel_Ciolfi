@@ -1,0 +1,2 @@
+# Referenced at C:\Users\lucas\Documents\Codigo_Fonte\Cursos\Udemy_Flutter_Daniel_Ciolfi\chat_online\build\app\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:31
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
